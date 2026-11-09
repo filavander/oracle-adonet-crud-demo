@@ -1,0 +1,13 @@
+# Poufne pliki konfiguracyjne z hasłami
+appsettings.json
+*.p12
+*.sso
+*.ora
+
+# Foldery kompilacji .NET (zostaną odtworzone przy dotnet build)
+bin/
+obj/
+
+# Pliki konfiguracyjne edytora
+.vscode/
+.DS_Store
